@@ -5,7 +5,7 @@
             <quickActionName>FeedItem.TextPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>nppatch__NewContact</quickActionName>
+            <quickActionName>%%%NAMESPACE%%%NewContact</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>New_Organization</quickActionName>
@@ -14,19 +14,19 @@
             <quickActionName>New_Household_Account</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>nppatch__New_Recurring_Donation</quickActionName>
+            <quickActionName>%%%NAMESPACE%%%New_Recurring_Donation</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>nppatch__New_Campaign</quickActionName>
+            <quickActionName>%%%NAMESPACE%%%New_Campaign</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>nppatch__NewTask</quickActionName>
+            <quickActionName>%%%NAMESPACE%%%NewTask</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
             <quickActionName>FeedItem.ContentPost</quickActionName>
         </quickActionListItems>
         <quickActionListItems>
-            <quickActionName>nppatch__LogACall</quickActionName>
+            <quickActionName>%%%NAMESPACE%%%LogACall</quickActionName>
         </quickActionListItems>
     </quickActionList>
     <showEmailCheckbox>false</showEmailCheckbox>
